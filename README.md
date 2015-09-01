@@ -1,3 +1,3 @@
 # SQL Node Lite
 
-### A SQLite project requiring the SQLite3 module to demonstrate the retrieval of data from a SQL database
+### A SQLite project (using the SQLite3 module) demonstrating the scope of SQL including data insertion, query, update and delete, schema creation and modification, and data access control.
